@@ -1,0 +1,10 @@
+Number of cages: Cage number 0: Cage number 1: Cage number 2: Cage number 3: Cage number 4: Cage number 5: Cage number 6: Cage number 7: 
+---Solution---
+
+1 4 2 5 3 
+2 5 4 3 1 
+5 2 3 1 4 
+4 3 1 2 5 
+3 1 5 4 2 
+
+checks: 2025 backtracks: 390
